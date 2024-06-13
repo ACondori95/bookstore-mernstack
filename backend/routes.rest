@@ -11,3 +11,6 @@ Content-Type: application/json
 
 ### GET
 GET http://localhost:5555/books
+
+### GET
+GET http://localhost:5555/books/666af9890c55d1190b037025
